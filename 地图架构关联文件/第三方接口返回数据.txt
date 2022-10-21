@@ -1,0 +1,33 @@
+
+
+
+	{
+		code:1,
+		msg:"success",
+		data:[
+			{
+				id:11,
+				geom:"POINT(121.21028624447204 31.25234746493916)",
+				geomType:"point", // point line polygon
+				value:23,
+				name:"石景山监测点",
+				type:"PM2.5",
+				description:"PM2.5"
+			}，
+			{
+				id:12,
+				geomType:"point",
+				geom:"POINT(121.21123117963127 31.25224813972193)",
+				value:25.5,
+				name:"海淀监测点",
+				type:"PM2.5",
+				description:"PM2.5"
+			}
+			.....
+		]
+	}
+	
+	
+	
+	
+	
