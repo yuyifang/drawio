@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T08:12:09.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="wEzI9X0yKkuwRNyUjFO-" version="20.4.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-21T08:13:22.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="8YMm3FmNtz0hePRhldNu" version="20.4.2" type="github" pages="4">
   <diagram id="-Sie4kf59mINGLcYpUHY" name="GIS应用">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -816,7 +816,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BFwx1LV3ulW3csRnGv9T-59" value="&lt;a href=&quot;http://10.80.17.195:8088/sld/pb2.sld&quot;&gt;外部SLD&lt;/a&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="BFwx1LV3ulW3csRnGv9T-59" value="&lt;a href=&quot;http://10.80.17.195:8088/sld/pb2.sld&quot; style=&quot;font-size: 15px;&quot;&gt;外部定制&lt;br style=&quot;font-size: 15px;&quot;&gt;的SLD&lt;/a&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="500" y="430" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BFwx1LV3ulW3csRnGv9T-61" value="&lt;font color=&quot;#3333ff&quot;&gt;sld_url&lt;/font&gt;/&lt;font color=&quot;#cccc00&quot;&gt;sld_body&lt;/font&gt;/&lt;font color=&quot;#ff3333&quot;&gt;sld_id&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#000000;strokeWidth=1;fontSize=18;fontColor=#000000;position2=1;" parent="1" vertex="1">
