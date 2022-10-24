@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T02:02:27.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="_AVg-h3xv7pvMaGQbxZR" version="20.4.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-24T02:02:48.067Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="wnV06GaCOdtsj6xDM0IH" version="20.4.2" type="github" pages="4">
   <diagram id="-Sie4kf59mINGLcYpUHY" name="GIS应用">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -907,6 +907,9 @@
           <mxGeometry x="-0.2894" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WIsicM3NVsQDGZJKyV9T-3" value="数据更新接口" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="828.75" y="580" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
