@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T06:11:12.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Ejq3bxi44o7DCtKKP-3K" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-25T06:11:28.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="jHLGJiwiE9fB1FDQFx1R" version="20.5.1" type="github" pages="4">
   <diagram id="-Sie4kf59mINGLcYpUHY" name="GIS应用">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,6 +108,9 @@
         </mxCell>
         <mxCell id="lUPcZnnb63YavFiipwbc-51" value="说明：&lt;br&gt;1、&lt;font color=&quot;#ff3399&quot;&gt;数据配图&lt;/font&gt;依赖超图iDesktop桌面版软件&lt;br&gt;2、&lt;font color=&quot;#ff0080&quot;&gt;服务发布&lt;/font&gt;依赖超图的iDesktop和IServer软件" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;fontSize=18;fillColor=none;align=left;" parent="1" vertex="1">
           <mxGeometry x="100" y="410" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Ju52FtyQbm1qm7UuxOd-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;前端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="30" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
