@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T06:09:48.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="7Kp_8or0Le-2hM-0ta3i" version="20.8.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-01-06T06:12:35.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="qoTxfisvSyG55yijMCNv" version="20.8.1" type="github" pages="5">
   <diagram id="-Sie4kf59mINGLcYpUHY" name="GIS应用">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -956,11 +956,17 @@
         <mxCell id="A7MEqvBr8q6_7kH25pb1-1" value="文件上传" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF3333;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="160" y="137" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="A7MEqvBr8q6_7kH25pb1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#FF3333;" edge="1" parent="1" source="A7MEqvBr8q6_7kH25pb1-2" target="A7MEqvBr8q6_7kH25pb1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A7MEqvBr8q6_7kH25pb1-2" value="Cesium展示及操作" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="470" y="140" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A7MEqvBr8q6_7kH25pb1-4" value="URL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF3333;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="390" y="137" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A7MEqvBr8q6_7kH25pb1-5" value="1:、平移及旋转参数&lt;br&gt;2、模型ID及文件位置" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="455" y="260" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
