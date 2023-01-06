@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T06:12:35.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="qoTxfisvSyG55yijMCNv" version="20.8.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-01-06T06:13:23.966Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="zHdkceDri7zdWjtBFYO2" version="20.8.1" type="github" pages="5">
   <diagram id="-Sie4kf59mINGLcYpUHY" name="GIS应用">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -967,6 +967,9 @@
         </mxCell>
         <mxCell id="A7MEqvBr8q6_7kH25pb1-5" value="1:、平移及旋转参数&lt;br&gt;2、模型ID及文件位置" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="455" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A7MEqvBr8q6_7kH25pb1-7" value="存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF3333;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="502" y="200" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
